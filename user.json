@@ -1,0 +1,16 @@
+[
+      {
+        "name": "Ezhilarasan",
+        "age": 29,
+        "occupation": "Software Engineer",
+        "location": "Chennai, India",
+        "hobbies": ["Reading", "Hiking", "Gaming"]
+      },
+      {
+        "name": "Gautham",
+        "age": 27,
+        "occupation": "Graphic Designer",
+        "location": "Bangalore, India",
+        "hobbies": ["Photography", "Traveling", "Cooking"]
+      }
+]
